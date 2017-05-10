@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Observable</string>
+    <string name="basic_sample">Basic</string>
+    <string name="label">Examples</string>
+</resources>
