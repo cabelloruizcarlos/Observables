@@ -1,17 +1,13 @@
 package crrc.com.observable;
 
 import android.annotation.SuppressLint;
-
-import java.util.LinkedList;
-import java.util.concurrent.TimeUnit;
-
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
-
 import java.util.Random;
+import java.util.concurrent.TimeUnit;
 
 import crrc.com.observable.model.User;
 import rx.Observable;

@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // From the tutorial: http://sglora.com/android-tutorial-sobre-rxjava-i-lo-basico/
+        // To check all the operators from the official site: http://reactivex.io/documentation/operators.html#alphabetical
 
         // Basic Observable
         Observable<String> variable = Observable.create(new Observable.OnSubscribe<String>() {
